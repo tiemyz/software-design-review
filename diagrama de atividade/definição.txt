@@ -1,0 +1,40 @@
+★★★ DIAGRAMA DE ATIVIDADE:
+
+A Linguagem de modelagem unificada inclui diversos subconjuntos de diagramas, incluindo diagramas de estrutura, de interação e de comportamento. Diagramas de atividade, junto com diagramas de caso de uso e de máquina de estados, são considerados diagramas de comportamento porque descrevem o que é necessário acontecer no sistema sendo modelado.
+
+As partes interessadas lidam com muitas questões, portanto, é importante se comunicar com clareza e concisão. Diagramas de atividade ajudam a unir as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o mesmo processo e comportamento. Para criar um diagrama de atividade, é necessário um conjunto de símbolos especiais, incluindo aqueles para dar partida, encerrar, fundir ou receber etapas no fluxo — o qual abordaremos de forma mais aprofundada neste guia de diagramas de atividade.
+
+-----------------------------------------------------------------------------------------------------------
+
+★★★ BENEFÍCIOS DO DIAGRAMA DE ATIVIDADE:
+
+Diagramas de atividade oferecem uma série de benefícios para os usuários. Considere criar um diagrama de atividade para:
+
+-> Demonstrar a lógica de um algoritmo.
+
+-> Descrever as etapas realizadas em um caso de uso UML.
+
+-> Ilustrar um processo de negócio ou fluxo de trabalho entre usuários e o sistema.
+
+-> Simplificar e melhorar qualquer processo ao esclarecer casos de uso complicados.
+
+-> Modelar elementos de arquitetura de software, como método, função e operação.
+
+-----------------------------------------------------------------------------------------------------------
+
+★★★ COMPONENTES BÁSICOS DE UM DIAGRAMA DE ATIVIDADE:
+
+Antes de criar um diagrama de atividade, é necessário primeiro entender sua composição. Alguns dos componentes mais comuns de um diagrama de atividade incluem:
+
+--> Ações: uma etapa da atividade em que o usuário ou software realiza uma determinada tarefa. No Lucidchart, ações são simbolizadas por retângulos de cantos arredondados.
+
+--> Nó de decisão: um ramo condicional no fluxo representado por um diamante. Inclui uma única entrada e duas ou mais saídas.
+
+--> Fluxos de controle: outro nome dado aos conectores que mostram o fluxo entre as etapas no diagrama.
+
+--> Nó inicial: simboliza o início da atividade. É representado por um círculo preto.
+
+--> Nó final: representa a etapa final da atividade. É representado por um círculo preto delineado.
+
+--> Diagramar é rápido e fácil com 
+
