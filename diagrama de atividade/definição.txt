@@ -10,15 +10,15 @@ As partes interessadas lidam com muitas questões, portanto, é importante se co
 
 Diagramas de atividade oferecem uma série de benefícios para os usuários. Considere criar um diagrama de atividade para:
 
--> Demonstrar a lógica de um algoritmo.
+--> Demonstrar a lógica de um algoritmo.
 
--> Descrever as etapas realizadas em um caso de uso UML.
+--> Descrever as etapas realizadas em um caso de uso UML.
 
--> Ilustrar um processo de negócio ou fluxo de trabalho entre usuários e o sistema.
+--> Ilustrar um processo de negócio ou fluxo de trabalho entre usuários e o sistema.
 
--> Simplificar e melhorar qualquer processo ao esclarecer casos de uso complicados.
+--> Simplificar e melhorar qualquer processo ao esclarecer casos de uso complicados.
 
--> Modelar elementos de arquitetura de software, como método, função e operação.
+--> Modelar elementos de arquitetura de software, como método, função e operação.
 
 -----------------------------------------------------------------------------------------------------------
 
